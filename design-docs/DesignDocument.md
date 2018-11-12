@@ -1,10 +1,10 @@
-#Design Document - The Beginner's Kitchen
+# Design Document - The Beginner's Kitchen
 
 The Beginner's Kitchen is an organization that provides cooking instruction that also serves as a recipe website. The basic premise is a cooking website that features recipes, videos, and instructional texts on cooking concepts. The company also provides small group, face-to-face cooking instruction for people in specific metro areas.
 
 The design of the website will focus primarily on basic, black and white styling intended to emphasize the quality of the food photos.
 
-##Featured Pages
+## Featured Pages
 This Bootstrap website, based on the Modern Business template by Bootstrap, will feature the following pages:
 1. Front Page (based on index.html), whih will contain a photo reel of food along with a collection of project photos.
 2. About Page (based on about.html), featuring a series of photos of the owners of the company along with an array of satisfied customers.
@@ -13,15 +13,15 @@ This Bootstrap website, based on the Modern Business template by Bootstrap, will
 5. Classes Page (based on services.html), which describes some of the cooking classes offered by the company.
 
 ## Websites of Comparable Businesses
-**Alton Brown's Website** at https://altonbrown.com/.
-**The Cooking Channel Website** at https://www.cookingchanneltv.com/.
-**Maangchi** at https://www.maangchi.com/.
-**Epicurious** at https://www.epicurious.com/.
-**America's Test Kitchen Online Cooking School** at https://www.onlinecookingschool.com/.
+1. **Alton Brown's Website** at https://altonbrown.com/.
+2. **The Cooking Channel Website** at https://www.cookingchanneltv.com/.
+3. **Maangchi** at https://www.maangchi.com/.
+4. **Epicurious** at https://www.epicurious.com/.
+5. **America's Test Kitchen Online Cooking School** at https://www.onlinecookingschool.com/.
 
 Several of the above websites, including the Epicurious website and Alton Brown's website, feature an element of "design simplicity" that emphasizes the photos of food. Since the purpose of the website is to promote food, it seems an appropriate style to use as inspiration.
 
-##Images and Licensing
+## Images and Licensing
 
 All food images were taken from http://www.pexels.com, a stock photo website. The license for these photos can be found here: https://www.pexels.com/photo-license/. The license allows for commercial and non-commercial use without attribution. They allow modification and editing as necessary without restriction.
 
