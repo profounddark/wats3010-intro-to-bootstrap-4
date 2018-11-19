@@ -19,6 +19,28 @@ footer
     flex: 0 1 auto;
 }
 
+.customer
+{
+    transform: initial;  
+    transition: transform 2s ease;
+}
+
+.customer:hover
+{
+    transform: rotate(30deg);
+}
+
+.about_card
+{
+    transform: scale(1.0);
+    transition: transform 1.0s ease;
+}
+
+.about_card:hover
+{
+    transform: scale(1.1);
+}
+
 a img
 {
     transform: scale(1.0);
