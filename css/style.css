@@ -4,10 +4,29 @@ footer
 {
     width: 100%;
 }
+
 .flex-container
 {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: stretch;
+}
+
+.flex-container div
+{
+    padding: 1rem;
+    flex: 0 1 auto;
+}
+
+a img
+{
+    transform: scale(1.0);
+    transition: transform 1s ease;
+
+
+}
+a img:hover
+{
+    transform: scale(1.08);
 }
